@@ -7,6 +7,35 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+#Temporary Generated Files
+[Gg]enerated [Cc]odes/
+[Gg]enerated[Cc]odes/
+[Gg]enerated_[Cc]ode/
+
+#Draft Works
+/DraftNotes
+/Draft
+
+#SampleData Files
+[Ss]ample[Dd]ata/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
